@@ -1,0 +1,40 @@
+body {
+font-size: 22px;
+line-height:1.5;
+color: #ffffff;
+background: #141414;}
+
+.wrapper {
+padding: 30px 30px 300px;}
+
+.rows100 {
+	margin: 0 -15px;
+	flex-wrap: wrap;
+	display: flex;
+	flex-direction:column;
+}
+
+.rows33 {
+	margin: 0 -15px;
+	flex-wrap: wrap;
+	display: flex;
+	flex-direction:row;
+}
+.row {
+    width:100%;
+	margin: 0 15px 30px;
+	padding: 20px;
+	border-radius: 6px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,0.12);
+}
+
+.row-100 {
+    flex-direction:column;
+	width:100%
+}
+
+.row-33 {
+    flex-direction:row;
+	width:30%
+}

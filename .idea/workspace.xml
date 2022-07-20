@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="css file created menu(left),section(center),sticky(right)&#10;layout code is written">
-      <change afterPath="$PROJECT_DIR$/silent.jpeg" afterDir="false" />
+    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="task is creating a website of news (image, text and button)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/task1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/july20.html" beforeDir="false" afterPath="$PROJECT_DIR$/july20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style20.css" beforeDir="false" afterPath="$PROJECT_DIR$/style20.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658221418539</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task is creating a website of news (image, text and button)">
+      <created>1658294659025</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658294659025</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +106,7 @@
     <MESSAGE value="task start" />
     <MESSAGE value="div is created as per the boxes or layout" />
     <MESSAGE value="css file created menu(left),section(center),sticky(right)&#10;layout code is written" />
-    <option name="LAST_COMMIT_MESSAGE" value="css file created menu(left),section(center),sticky(right)&#10;layout code is written" />
+    <MESSAGE value="task is creating a website of news (image, text and button)" />
+    <option name="LAST_COMMIT_MESSAGE" value="task is creating a website of news (image, text and button)" />
   </component>
 </project>
