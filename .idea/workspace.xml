@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="images are added to images file related to code">
+    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="adding first row image and text side by side">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/july20.html" beforeDir="false" afterPath="$PROJECT_DIR$/july20.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style20.css" beforeDir="false" afterPath="$PROJECT_DIR$/style20.css" afterDir="false" />
@@ -98,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658301446104</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="adding first row image and text side by side">
+      <created>1658304217286</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658304217286</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +125,7 @@
     <MESSAGE value="css file created menu(left),section(center),sticky(right)&#10;layout code is written" />
     <MESSAGE value="task is creating a website of news (image, text and button)" />
     <MESSAGE value="images are added to images file related to code" />
-    <option name="LAST_COMMIT_MESSAGE" value="images are added to images file related to code" />
+    <MESSAGE value="adding first row image and text side by side" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding first row image and text side by side" />
   </component>
 </project>
