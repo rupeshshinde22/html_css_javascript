@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="adding first row image and text side by side">
+    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="sequence the words into alphabetical order in javascript">
+      <change afterPath="$PROJECT_DIR$/seq_letter.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/july20.html" beforeDir="false" afterPath="$PROJECT_DIR$/july20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style20.css" beforeDir="false" afterPath="$PROJECT_DIR$/style20.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/seq_words.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/Users/rst8255/html,css,javascript/July19",
     "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "HTML"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -105,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658304217286</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="sequence the words into alphabetical order in javascript">
+      <created>1658385916755</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658385916755</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +138,7 @@
     <MESSAGE value="task is creating a website of news (image, text and button)" />
     <MESSAGE value="images are added to images file related to code" />
     <MESSAGE value="adding first row image and text side by side" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding first row image and text side by side" />
+    <MESSAGE value="sequence the words into alphabetical order in javascript" />
+    <option name="LAST_COMMIT_MESSAGE" value="sequence the words into alphabetical order in javascript" />
   </component>
 </project>
