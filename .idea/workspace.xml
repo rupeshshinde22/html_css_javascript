@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="question 1.JavaScript Program to Find the Factorial of a Number completed">
-      <change beforePath="$PROJECT_DIR$/July25.js" beforeDir="false" afterPath="$PROJECT_DIR$/July25.html" afterDir="false" />
+    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="question 2.JavaScript Program to Display the Multiplication Table completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July25.html" beforeDir="false" afterPath="$PROJECT_DIR$/July25.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658741803047</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="question 2.JavaScript Program to Display the Multiplication Table completed">
+      <created>1658742135058</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658742135058</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +178,7 @@
     <MESSAGE value="js to html extension to run the code" />
     <MESSAGE value="Today 25 July task 10 questions" />
     <MESSAGE value="question 1.JavaScript Program to Find the Factorial of a Number completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="question 1.JavaScript Program to Find the Factorial of a Number completed" />
+    <MESSAGE value="question 2.JavaScript Program to Display the Multiplication Table completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="question 2.JavaScript Program to Display the Multiplication Table completed" />
   </component>
 </project>

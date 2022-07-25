@@ -28,18 +28,40 @@
 
 
 <!--2.JavaScript Program to Display the Multiplication Table-->
+<!--<html>-->
+<!--<head>-->
+<!--    <title>Factorial</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--<script>-->
+<!--const number = 5;-->
+
+<!--for(let i = 1; i <= 10; i++) {-->
+
+<!--    const result = i * number;-->
+<!--    console.log(number+"*" +i+ " = " +result);-->
+<!--}-->
+
+<!--</script>-->
+<!--</body>-->
+<!--</html>-->
+
+3.JavaScript Program to Print the Fibonacci Sequence
+
 <html>
 <head>
     <title>Factorial</title>
 </head>
 <body>
 <script>
-const number = 5;
+const number = 10;
+let n = 0, m = 1, next;
 
-for(let i = 1; i <= 10; i++) {
-
-    const result = i * number;
-    console.log(number+"*" +i+ " = " +result);
+for (let i = 1; i <= number; i++) {
+console.log(n);
+next = n + m;
+n = m;
+m = next;
 }
 
 </script>
