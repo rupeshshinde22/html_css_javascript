@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="5.JavaScript Program to Add Element to Start of an Array completed">
+    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="6.JavaScript Program to Remove Duplicates From Array completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/July25.html" beforeDir="false" afterPath="$PROJECT_DIR$/July25.html" afterDir="false" />
     </list>
@@ -180,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658745979654</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="6.JavaScript Program to Remove Duplicates From Array completed">
+      <created>1658746407968</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1658746407968</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +217,7 @@
     <MESSAGE value="3.JavaScript Program to Print the Fibonacci Sequence completed" />
     <MESSAGE value="4.JavaScript Program to Empty an Array completed" />
     <MESSAGE value="5.JavaScript Program to Add Element to Start of an Array completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.JavaScript Program to Add Element to Start of an Array completed" />
+    <MESSAGE value="6.JavaScript Program to Remove Duplicates From Array completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.JavaScript Program to Remove Duplicates From Array completed" />
   </component>
 </project>
