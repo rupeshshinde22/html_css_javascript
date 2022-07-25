@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="3.JavaScript Program to Print the Fibonacci Sequence completed">
+    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="4.JavaScript Program to Empty an Array completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/July25.html" beforeDir="false" afterPath="$PROJECT_DIR$/July25.html" afterDir="false" />
     </list>
@@ -35,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/Users/rst8255/html,css,javascript/July19",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -159,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658742363645</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="4.JavaScript Program to Empty an Array completed">
+      <created>1658742720116</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658742720116</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +194,7 @@
     <MESSAGE value="question 1.JavaScript Program to Find the Factorial of a Number completed" />
     <MESSAGE value="question 2.JavaScript Program to Display the Multiplication Table completed" />
     <MESSAGE value="3.JavaScript Program to Print the Fibonacci Sequence completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.JavaScript Program to Print the Fibonacci Sequence completed" />
+    <MESSAGE value="4.JavaScript Program to Empty an Array completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.JavaScript Program to Empty an Array completed" />
   </component>
 </project>
