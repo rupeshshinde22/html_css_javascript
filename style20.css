@@ -2,20 +2,36 @@ body {
 font-size: 22px;
 line-height:1.5;
 color: #ffffff;
-background: #141414;}
+
+;}
+
+.bg-img{
+        background-image: url(../images/silent.jpeg);
+        height: 100%;
+        background-size: cover ;
+        background-position: center;
+        filter:blur(8px);
+}
 
 img{
 height:250px;
 width:250px;
-border-radius: 50px;}
+border-radius: 50px;
+overflow:hidden;}
 
 
 .wrapper {
+background-image: url(../images/silent.jpeg);
+        height: 100%;
+        background-size: cover ;
+        background-position: center;
+
 padding: 30px 30px ;
 margin:18px;
 }
 
 .text{
+overflow:hidden;
 font-weight:200;
 font-size:20px;
 margin-left:15px;

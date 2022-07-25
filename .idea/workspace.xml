@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="10.JavaScript Program to Reverse a String completed">
+    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="working on 20July task just  adding backgroungf image and making it blur">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/july20.html" beforeDir="false" afterPath="$PROJECT_DIR$/july20.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style20.css" beforeDir="false" afterPath="$PROJECT_DIR$/style20.css" afterDir="false" />
@@ -35,7 +35,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/rst8255/html,css,javascript/July19",
+    "last_opened_file_path": "/Users/rst8255/html,css,javascript/July19/images",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   },
   "keyToStringList": {
@@ -47,6 +47,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -209,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658747089138</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="working on 20July task just  adding backgroungf image and making it blur">
+      <created>1658748867661</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1658748867661</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,6 +251,7 @@
     <MESSAGE value="JavaScript Program to Sort Words in Alphabetical Order completed" />
     <MESSAGE value="9.JavaScript Program to Replace Characters of a String completed" />
     <MESSAGE value="10.JavaScript Program to Reverse a String completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.JavaScript Program to Reverse a String completed" />
+    <MESSAGE value="working on 20July task just  adding backgroungf image and making it blur" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on 20July task just  adding backgroungf image and making it blur" />
   </component>
 </project>
