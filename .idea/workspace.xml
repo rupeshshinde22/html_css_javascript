@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="JavaScript Program to Sort Words in Alphabetical Order completed">
+    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="10.JavaScript Program to Reverse a String completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/July25.html" beforeDir="false" afterPath="$PROJECT_DIR$/July25.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -193,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658746544911</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="9.JavaScript Program to Replace Characters of a String completed">
+      <created>1658746749085</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1658746749085</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +233,8 @@
     <MESSAGE value="5.JavaScript Program to Add Element to Start of an Array completed" />
     <MESSAGE value="6.JavaScript Program to Remove Duplicates From Array completed" />
     <MESSAGE value="JavaScript Program to Sort Words in Alphabetical Order completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaScript Program to Sort Words in Alphabetical Order completed" />
+    <MESSAGE value="9.JavaScript Program to Replace Characters of a String completed" />
+    <MESSAGE value="10.JavaScript Program to Reverse a String completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.JavaScript Program to Reverse a String completed" />
   </component>
 </project>

@@ -148,19 +148,46 @@
 <!--</body>-->
 <!--</html>-->
 
-9.JavaScript Program to Replace Characters of a String
+<!--9.JavaScript Program to Replace Characters of a String-->
+
+<!--<html>-->
+<!--<head>-->
+<!--    <title>Replace Characters of a String</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--<script>-->
+
+<!--const string = 'ios looks good and windows are awesome';-->
+<!--const newText = string.replace('ios', 'windows');-->
+
+<!--console.log(newText);-->
+
+<!--</script>-->
+<!--</body>-->
+<!--</html>-->
+
+
+10.JavaScript Program to Reverse a String
 
 <html>
 <head>
-    <title>Replace Characters of a String</title>
+
 </head>
 <body>
+<h1>Reverse a String</h1>
 <script>
+const string = "SPRINGERNATURE";
 
-const string = 'ios looks good and windows are awesome';
-const newText = string.replace('ios', 'windows');
+function reverseString(str) {
+let newString = "";
+for (let i = str.length - 1; i >= 0; i--) {
+newString += str[i];
+}
+return newString;
+}
 
-console.log(newText);
+const result = reverseString(string);
+console.log(result);
 
 </script>
 </body>
