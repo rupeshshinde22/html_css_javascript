@@ -46,7 +46,29 @@
 <!--</body>-->
 <!--</html>-->
 
-3.JavaScript Program to Print the Fibonacci Sequence
+<!--3.JavaScript Program to Print the Fibonacci Sequence-->
+
+<!--<html>-->
+<!--<head>-->
+<!--    <title>Factorial</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--<script>-->
+<!--const number = 10;-->
+<!--let n = 0, m = 1, next;-->
+
+<!--for (let i = 1; i <= number; i++) {-->
+<!--console.log(n);-->
+<!--next = n + m;-->
+<!--n = m;-->
+<!--m = next;-->
+<!--}-->
+
+<!--</script>-->
+<!--</body>-->
+<!--</html>-->
+
+4.JavaScript Program to Empty an Array
 
 <html>
 <head>
@@ -54,15 +76,16 @@
 </head>
 <body>
 <script>
-const number = 10;
-let n = 0, m = 1, next;
-
-for (let i = 1; i <= number; i++) {
-console.log(n);
-next = n + m;
-n = m;
-m = next;
+const array = [1, 2 ,3,7,9,54,766,888];
+function emptyArray(arr) {
+arr = [];
+return arr;
 }
+
+console.log(array);
+
+const result = emptyArray(array);
+console.log(result);
 
 </script>
 </body>
