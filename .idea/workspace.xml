@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="js to html extension to run the code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="question 1.JavaScript Program to Find the Factorial of a Number completed">
+      <change beforePath="$PROJECT_DIR$/July25.js" beforeDir="false" afterPath="$PROJECT_DIR$/July25.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaScript",
       "HTML"
     ]
   }
@@ -129,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658389972249</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Today 25 July task 10 questions">
+      <created>1658741597283</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1658741597283</updated>
+    </task>
+    <task id="LOCAL-00012" summary="question 1.JavaScript Program to Find the Factorial of a Number completed">
+      <created>1658741803047</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658741803047</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +168,8 @@
     <MESSAGE value="sequence the words into alphabetical order in javascript" />
     <MESSAGE value="1.string in alphabetical order AND 2.In a sentence find longest word In string javascript code basic as per given task" />
     <MESSAGE value="js to html extension to run the code" />
-    <option name="LAST_COMMIT_MESSAGE" value="js to html extension to run the code" />
+    <MESSAGE value="Today 25 July task 10 questions" />
+    <MESSAGE value="question 1.JavaScript Program to Find the Factorial of a Number completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="question 1.JavaScript Program to Find the Factorial of a Number completed" />
   </component>
 </project>
