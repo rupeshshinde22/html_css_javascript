@@ -6,11 +6,12 @@ background: #141414;}
 
 img{
 height:250px;
-width:250px;}
+width:250px;
+border-radius: 50px;}
 
 
 .wrapper {
-padding: 30px 30px 300px;
+padding: 30px 30px ;
 margin:18px;
 }
 
@@ -35,7 +36,18 @@ margin-up:15px;
 	flex:0 0 auto;
 }
 
-.row-33 {
-    flex-direction:row;
-    width: 33.33%;
-    }
+.row33{
+
+        display: flex;
+        width:100%;
+        align-items: center;
+        justify-content: center;
+       	margin: 20px;
+       	padding: 20px;
+       	border-radius: 6px;
+       	box-sizing: border-box;
+
+}
+ .row-33 {
+  width: 100%;
+  border-radius: 18px;}
