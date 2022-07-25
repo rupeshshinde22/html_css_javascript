@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="1.string in alphabetical order AND 2.In a sentence find longest word In string javascript code basic as per given task">
+    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="js to html extension to run the code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seq_letter.js" beforeDir="false" afterPath="$PROJECT_DIR$/seq_letter.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658387821794</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="js to html extension to run the code">
+      <created>1658389972249</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658389972249</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +152,7 @@
     <MESSAGE value="adding first row image and text side by side" />
     <MESSAGE value="sequence the words into alphabetical order in javascript" />
     <MESSAGE value="1.string in alphabetical order AND 2.In a sentence find longest word In string javascript code basic as per given task" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.string in alphabetical order AND 2.In a sentence find longest word In string javascript code basic as per given task" />
+    <MESSAGE value="js to html extension to run the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="js to html extension to run the code" />
   </component>
 </project>
