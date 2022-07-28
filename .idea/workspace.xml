@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="header part created now creagting middle part of the website">
+    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="middle part container calendar is created now creating image slider">
+      <change afterPath="$PROJECT_DIR$/28julyimages/Magnet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28julyimages/nature.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28julyimages/nature2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28julyimages/nature3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28julyimages/nature4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28julyimages/nature5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28julyimages/nature6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28julyimages/peace1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/july28.html" beforeDir="false" afterPath="$PROJECT_DIR$/july28.html" afterDir="false" />
     </list>
@@ -231,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659034925000</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="middle part container calendar is created now creating image slider">
+      <created>1659037380029</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1659037380029</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,6 +283,7 @@
     <MESSAGE value="working on 20July task just  adding backgroungf image and making it blur" />
     <MESSAGE value="adding backgroung image to the news application is completed and updated with some more changes" />
     <MESSAGE value="header part created now creagting middle part of the website" />
-    <option name="LAST_COMMIT_MESSAGE" value="header part created now creagting middle part of the website" />
+    <MESSAGE value="middle part container calendar is created now creating image slider" />
+    <option name="LAST_COMMIT_MESSAGE" value="middle part container calendar is created now creating image slider" />
   </component>
 </project>
