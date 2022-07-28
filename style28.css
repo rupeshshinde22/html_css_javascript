@@ -1,0 +1,69 @@
+body {
+font-size: 22px;
+line-height:1.5;
+color: #ffffff;
+
+;}
+
+.bg-img{
+        background-image: url(../images/silent.jpeg);
+        height: 100%;
+        background-size: cover ;
+        background-position: center;
+        filter:blur(8px);
+}
+
+img{
+height:250px;
+width:250px;
+border-radius: 50px;
+overflow:hidden;}
+
+
+.wrapper {
+background-image: url(../images/silent.jpeg);
+        height: 100%;
+        background-size: cover ;
+        background-position: center;
+
+padding: 30px 30px ;
+margin:18px;
+}
+
+.text{
+overflow:hidden;
+font-weight:200;
+font-size:20px;
+margin-left:15px;
+margin-bottom:15px;
+margin-right:15px;
+margin-up:15px;
+
+}
+
+.row {
+    display: flex;
+    width:100%;
+	margin: 0 15px 30px;
+	padding: 20px;
+	border-radius: 6px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,0.12);
+	flex:0 0 auto;
+}
+
+.row33{
+
+        display: flex;
+        width:100%;
+        align-items: center;
+        justify-content: center;
+       	margin: 20px;
+       	padding: 20px;
+       	border-radius: 6px;
+       	box-sizing: border-box;
+
+}
+ .row-33 {
+  width: 100%;
+  border-radius: 18px;}

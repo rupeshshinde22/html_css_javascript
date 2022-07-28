@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="working on 20July task just  adding backgroungf image and making it blur">
+    <list default="true" id="e29eb907-9484-47c2-8f45-7349f749f0b5" name="Changes" comment="adding backgroung image to the news application is completed and updated with some more changes">
+      <change afterPath="$PROJECT_DIR$/28julyimages/peace.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/july28.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style28.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/july20.html" beforeDir="false" afterPath="$PROJECT_DIR$/july20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style20.css" beforeDir="false" afterPath="$PROJECT_DIR$/style20.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/rst8255/html,css,javascript/July19/images",
+    "last_opened_file_path": "/Users/rst8255/html,css,javascript/July19/28julyimages",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   },
   "keyToStringList": {
@@ -47,6 +48,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/28julyimages" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -217,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658748867661</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="adding backgroung image to the news application is completed and updated with some more changes">
+      <created>1658750112942</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1658750112942</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +261,7 @@
     <MESSAGE value="9.JavaScript Program to Replace Characters of a String completed" />
     <MESSAGE value="10.JavaScript Program to Reverse a String completed" />
     <MESSAGE value="working on 20July task just  adding backgroungf image and making it blur" />
-    <option name="LAST_COMMIT_MESSAGE" value="working on 20July task just  adding backgroungf image and making it blur" />
+    <MESSAGE value="adding backgroung image to the news application is completed and updated with some more changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding backgroung image to the news application is completed and updated with some more changes" />
   </component>
 </project>
